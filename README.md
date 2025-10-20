@@ -1,4 +1,4 @@
-<h2>Scientific Plant Name Data Integration and Parsing Tools</h2>
+<h2>Horticultural Data Integration and Parsing Tools</h2>
 
 This repository contains a Jupyter Notebook (hort_db_integrate.ipynb) for integrating scientific plant names from a local database with external taxonomic information from the World Checklist of Vascular Plants (WCVP) and the USDA Plants Database. It also includes a Python module (sci_name_parser.py) for parsing scientific plant names into their taxonomic components.
 
